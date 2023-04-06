@@ -90,19 +90,19 @@ REST 기반으로 서비스 API를 구현한 것.
 
 ### 7) REST API 설계 예시
 1. URI는 동사보다 명사를, 대문자보다는 소문자를 사용해야 한다.  
-   >Bad: ~/jimeaning/Running
+   >Bad: ~/jimeaning/Running  
    >Good: ~/jimeaning/run
 2. 마지막에 슬래시(/)를 포함하지 않는다.
-   >Bad: ~/jimeaning/test/
+   >Bad: ~/jimeaning/test/  
    >Good: ~/jimeaning/test
 3. 언더바 대신 하이픈을 사용한다.
-   >Bad: ~/jimeaning/test_blog
+   >Bad: ~/jimeaning/test_blog   
    >Good: ~/jimeaning/test-blog
 4. 파일확장자는 URI에 포함하지 않는다.
-   >Bad: ~/jimeaning/photo.jpg
+   >Bad: ~/jimeaning/photo.jpg  
    >Good: ~/jimeaning/photo
 6. 행위를 포함하지 않는다.
-   >Bad: ~/jimeaning/delete-post/1
+   >Bad: ~/jimeaning/delete-post/1  
    >Good: ~/jimeaning/post/1   
 
 <br/>
