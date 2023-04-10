@@ -1,10 +1,14 @@
-# Today I Learned(T!L) 
+# TIL
+> Today I Learned
 
 매일 꾸준히 기록해 나가는 곳 🌱
 
-<br/>
 
-## Categories
+_7 TILs and counting..._
+
+---
+
+### Categories
 
 - [Network](#Network)
 - [OS](#OS)
@@ -26,6 +30,4 @@
 ### [부스러기](#부스러기)
 - [Markdown 문법](부스러기/markdown.md)
 
-[1]: https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
-[2]: https://github.com/jbranchaud/til
 
