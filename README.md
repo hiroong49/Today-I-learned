@@ -1,19 +1,10 @@
-# TIL
-> Today I Learned
+# Today I Learned(T!L) 
 
 매일 꾸준히 기록해 나가는 곳 🌱
 
+<br/>
 
-_7 TILs and counting..._
-
----
-
-### 2 most recent TILs
-
-- [RESTful API](Network/RestfulAPI.md) - Mon Apr 10 20:39:36 2023 +0900
-- [교착상태](OS/Deadlock.md) - Mon Apr 10 20:11:28 2023 +0900
-
-### Categories
+## Categories
 
 - [Network](#Network)
 - [OS](#OS)
