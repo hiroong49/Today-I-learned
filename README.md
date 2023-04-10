@@ -10,8 +10,8 @@ _7 TILs and counting..._
 
 ### 2 most recent TILs
 
+- [RESTful API](Network/RestfulAPI.md) - Mon Apr 10 20:39:36 2023 +0900
 - [교착상태](OS/Deadlock.md) - Mon Apr 10 20:11:28 2023 +0900
-- [RESTful API](Network/Restful API.md) - Thu Apr 6 21:40:53 2023 +0900
 
 ### Categories
 
@@ -21,7 +21,7 @@ _7 TILs and counting..._
 - [부스러기](#부스러기)
 
 ### [Network](#Network)
-- [RESTful API](Network/Restful API.md)
+- [RESTful API](Network/RestfulAPI.md)
 
 ### [OS](#OS)
 - [교착상태](OS/Deadlock.md)
