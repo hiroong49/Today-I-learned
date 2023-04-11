@@ -8,11 +8,6 @@ _7 TILs and counting..._
 
 ---
 
-### 2 most recent TILs
-
-- [교착상태](OS/Deadlock.md) - Mon Apr 10 20:11:28 2023 +0900
-- [RESTful API](Network/Restful API.md) - Thu Apr 6 21:40:53 2023 +0900
-
 ### Categories
 
 - [Network](#Network)
@@ -21,7 +16,7 @@ _7 TILs and counting..._
 - [부스러기](#부스러기)
 
 ### [Network](#Network)
-- [RESTful API](Network/Restful API.md)
+- [RESTful API](Network/RestfulAPI.md)
 
 ### [OS](#OS)
 - [교착상태](OS/Deadlock.md)
@@ -35,6 +30,4 @@ _7 TILs and counting..._
 ### [부스러기](#부스러기)
 - [Markdown 문법](부스러기/markdown.md)
 
-[1]: https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
-[2]: https://github.com/jbranchaud/til
 
