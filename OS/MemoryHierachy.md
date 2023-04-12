@@ -209,6 +209,6 @@ CPU는 작은 메모리에 더 빨리 접근 가능하다
 <br>
 
 #### 참고
-[메모리 계층 구조-velog](https://velog.io/@yu-jin-song/CS-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B3%84%EC%B8%B5-%EA%B5%AC%EC%A1%B0)
-[메모리 계층 구조-나무위키](https://namu.wiki/w/%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EA%B3%84%EC%B8%B5%20%EA%B5%AC%EC%A1%B0)
+[메모리 계층 구조-velog](https://velog.io/@yu-jin-song/CS-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B3%84%EC%B8%B5-%EA%B5%AC%EC%A1%B0)  
+[메모리 계층 구조-나무위키](https://namu.wiki/w/%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EA%B3%84%EC%B8%B5%20%EA%B5%AC%EC%A1%B0)  
 [메모리 계층구조-velog](https://velog.io/@steadygo247/%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B3%84%EC%B8%B5%EA%B5%AC%EC%A1%B0)
