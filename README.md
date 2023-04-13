@@ -4,7 +4,7 @@
 매일 꾸준히 기록해 나가는 곳 🌱
 
 
-_8 TILs and counting..._
+_9 TILs and counting..._
 
 ---
 
@@ -20,6 +20,7 @@ _8 TILs and counting..._
 
 ### [OS](#OS)
 - [교착상태](OS/Deadlock.md)
+- [메모리 할당 알고리즘](OS/MemoryAllocationAlgorithm.md)
 - [메모리 계층 구조 (Memory Hierachy)](OS/MemoryHierachy.md)
 - [프로세스와 스레드](OS/Process_Thread.md)
 
