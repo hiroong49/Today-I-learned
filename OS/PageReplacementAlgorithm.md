@@ -109,4 +109,4 @@
 #### 참고
 [페이지 교체 알고리즘-티스토리](https://code-lab1.tistory.com/60)  
 [FIFO/LRU/LFU/MFU/NUR-티스토리](https://doh-an.tistory.com/28)  
-[-티스토리](https://zangzangs.tistory.com/143)
+[[OS] 페이지 교체 알고리즘 - FIFO/LRU/LFU/MFU/NUR-티스토리](https://zangzangs.tistory.com/143)
