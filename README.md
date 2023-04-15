@@ -4,7 +4,7 @@
 매일 꾸준히 기록해 나가는 곳 🌱
 
 
-_10 TILs and counting..._
+_11 TILs and counting..._
 
 ---
 
@@ -20,6 +20,7 @@ _10 TILs and counting..._
 
 ### [OS](#OS)
 - [교착상태](OS/Deadlock.md)
+- [내부 단편화, 외부 단편화](OS/Fragmentation.md)
 - [메모리 할당 알고리즘](OS/MemoryAllocationAlgorithm.md)
 - [메모리 계층 구조 (Memory Hierachy)](OS/MemoryHierachy.md)
 - [페이지 교체 알고리즘](OS/PageReplacementAlgorithm.md)
