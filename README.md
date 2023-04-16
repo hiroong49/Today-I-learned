@@ -4,7 +4,7 @@
 매일 꾸준히 기록해 나가는 곳 🌱
 
 
-_11 TILs and counting..._
+_12 TILs and counting..._
 
 ---
 
@@ -19,6 +19,7 @@ _11 TILs and counting..._
 - [RESTful API](Network/RestfulAPI.md)
 
 ### [OS](#OS)
+- [Context Switching](OS/ContextSwitching.md)
 - [교착상태](OS/Deadlock.md)
 - [내부 단편화, 외부 단편화](OS/Fragmentation.md)
 - [메모리 할당 알고리즘](OS/MemoryAllocationAlgorithm.md)
