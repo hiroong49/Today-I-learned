@@ -4,7 +4,7 @@
 매일 꾸준히 기록해 나가는 곳 🌱
 
 
-_12 TILs and counting..._
+_13 TILs and counting..._
 
 ---
 
@@ -26,6 +26,7 @@ _12 TILs and counting..._
 - [메모리 계층 구조 (Memory Hierachy)](OS/MemoryHierachy.md)
 - [페이지 교체 알고리즘](OS/PageReplacementAlgorithm.md)
 - [프로세스와 스레드](OS/Process_Thread.md)
+- [커널 수준 스레드와 사용자 수준 스레드](OS/Thread.md)
 
 ### [Programming](#Programming)
 - [Garbage Collection](Programming/GarbageCollection.md)
