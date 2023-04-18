@@ -4,7 +4,7 @@
 매일 꾸준히 기록해 나가는 곳 🌱
 
 
-_13 TILs and counting..._
+_11 TILs and counting..._
 
 ---
 
@@ -29,8 +29,6 @@ _13 TILs and counting..._
 - [커널 수준 스레드와 사용자 수준 스레드](OS/Thread.md)
 
 ### [Programming](#Programming)
-- [Garbage Collection](Programming/GarbageCollection.md)
-- [Java](Programming/Java.md)
 - [OOP (Object-Oriented Programming)](Programming/OOP.md)
 
 ### [부스러기](#부스러기)
