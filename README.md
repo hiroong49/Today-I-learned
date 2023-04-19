@@ -4,7 +4,7 @@
 매일 꾸준히 기록해 나가는 곳 🌱
 
 
-_11 TILs and counting..._
+_12 TILs and counting..._
 
 ---
 
@@ -29,6 +29,7 @@ _11 TILs and counting..._
 - [커널 수준 스레드와 사용자 수준 스레드](OS/Thread.md)
 
 ### [Programming](#Programming)
+- [클라이언트 사이드와 서버 사이드](Programming/ClientSideServerSide.md)
 - [OOP (Object-Oriented Programming)](Programming/OOP.md)
 
 ### [부스러기](#부스러기)
