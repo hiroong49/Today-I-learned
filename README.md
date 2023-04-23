@@ -4,7 +4,7 @@
 매일 꾸준히 기록해 나가는 곳 🌱
 
 
-_15 TILs and counting..._
+_16 TILs and counting..._
 
 ---
 
@@ -17,6 +17,7 @@ _15 TILs and counting..._
 
 ### [Network](#Network)
 - [네트워크](Network/Network.md)
+- [OSI 7계층](Network/OSI_7Layer.md)
 - [RESTful API](Network/RestfulAPI.md)
 - [TCP / UDP](Network/TCP_UDP.md)
 - [TCP/IP 4계층](Network/TcpIp4Layer.md)
