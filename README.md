@@ -4,7 +4,7 @@
 매일 꾸준히 기록해 나가는 곳 🌱
 
 
-_18 TILs and counting..._
+_19 TILs and counting..._
 
 ---
 
@@ -17,6 +17,7 @@ _18 TILs and counting..._
 
 ### [Network](#Network)
 - [3-Way Handshake와 4-Way Handshake](Network/3WayHandshake.md)
+- [Get과 Post](Network/GetPost.md)
 - [HTTP와 HTTPS](Network/HttpHttps.md)
 - [네트워크](Network/Network.md)
 - [OSI 7계층](Network/OSI_7Layer.md)
