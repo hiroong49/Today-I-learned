@@ -4,7 +4,7 @@
 매일 꾸준히 기록해 나가는 곳 🌱
 
 
-_24 TILs and counting..._
+_25 TILs and counting..._
 
 ---
 
@@ -51,6 +51,7 @@ _24 TILs and counting..._
 - [웹 크롤링](Web/Crawling.md)
 
 ### [부스러기](#부스러기)
+- [요약 노트](부스러기/BeforeTheDay.md)
 - [Markdown 문법](부스러기/markdown.md)
 
 
